@@ -1,0 +1,13 @@
+
+h1{
+    text-align:start;
+    color:greenyellow;
+    font-family:cursive;
+    font-size:500%;
+    color:brown;
+    background-image: url('emoji.jpg');
+    width: 42px;height:42px;
+   border:2px solid powderblue;
+   padding:40px;
+   margin:10px;
+}
